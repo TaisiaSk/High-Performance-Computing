@@ -1,0 +1,10 @@
+Sum of numbers
+Sequential
+Sum: 499999500000
+Time: 0.00453409
+Atomic
+Sum: 499999500000
+Time: 0.032153
+Reduction
+Sum: 499999500000
+Time: 0.000731088
